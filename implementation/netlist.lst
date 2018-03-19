@@ -1,0 +1,15 @@
+C:\Temp\RA198\lab3\implementation\system.ngc 1521455262
+C:/Temp/RA198/lab3/implementation/system_dip_switches_wrapper.ngc 1521455235
+C:/Temp/RA198/lab3/implementation/system_rs232_wrapper.ngc 1521455222
+C:/Temp/RA198/lab3/implementation/system_proc_sys_reset_0_wrapper.ngc 1521455152
+C:/Temp/RA198/lab3/implementation/system_clock_generator_0_wrapper.ngc 1521455247
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_ilmb_wrapper.ngc 1521455238
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_dlmb_wrapper.ngc 1521455241
+C:/Temp/RA198/lab3/implementation/system_axi4lite_0_wrapper.ngc 1521455250
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_wrapper.ngc 1521455244
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_i_bram_ctrl_wrapper.ngc 1521455161
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_d_bram_ctrl_wrapper.ngc 1521455169
+C:/Temp/RA198/lab3/implementation/system_debug_module_wrapper.ngc 1521455204
+C:/Temp/RA198/lab3/implementation/system_leds_wrapper.ngc 1521455229
+C:/Temp/RA198/lab3/implementation/system_microblaze_0_bram_block_wrapper.ngc 1521455175
+OK

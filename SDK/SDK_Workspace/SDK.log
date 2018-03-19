@@ -1,0 +1,2 @@
+11:30:30.739 INFO  - Processing command line option -hwspec C:\Temp\RA198\lab3\SDK\SDK_Export\hw\system.xml. 
+11:40:43.294 INFO  - FPGA configured successfully with bitstream "C:/Temp/RA198/lab3/SDK/SDK_Workspace/lab3_hw_platform/download.bit" 
